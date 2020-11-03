@@ -11,8 +11,6 @@ import java.awt.event.MouseListener;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-//teste integracao2
-//teste integracao2
 public class Jogo_da_velha extends JPanel implements MouseListener {
 
 	// configuracao das fontes utilizadas
